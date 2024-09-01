@@ -1,0 +1,2 @@
+arm-none-eabi-gcc -S arm.c -o arm.s
+arm-none-eabi-gcc -c arm.s -o arm.o
